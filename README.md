@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
@@ -11,3 +12,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+=======
+# neufi-nftWars
+>>>>>>> 1c0371825c0b7fad95608ac838729c53c358de8f
